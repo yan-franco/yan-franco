@@ -1,9 +1,9 @@
 <p align="center" width="300">
   <img align="center" width="200" src="https://user-images.githubusercontent.com/89053178/215631973-b4d84015-f399-4b17-856f-bc87dfbec3f3.png"/>
-  <h3 align="center">Hola 👋 soy Yan</h3>
-</p>
+  <h3 align="center">Hola <img width="28px" src="https://user-images.githubusercontent.com/89053178/215655745-434ee625-f6bb-47b2-87f5-3e8a0e4609b6.png"/> soy Yan</h3>
 
-<p align="center"> Soy un futuro <strong> Full Stack Developer </strong> <br /> Estas son mis redes Sociales 👇: </p>
+
+<p align="center"> Soy un futuro <strong> Full Stack Developer </strong> <br /> Estas son mis redes Sociales <img width="28px" src="https://user-images.githubusercontent.com/89053178/215655984-0f16248d-e085-4da7-8413-cb891b913870.png"/> : </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/yan-franco-mieles-genez-793a261b5/" target="blank" style="margin-right: 4px">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Yan-Franco" height="28px" width="28px"/>
@@ -14,13 +14,13 @@
 </p>
 
 
-### 🤓 Un poco más Sobre mí...
+### <img width="40px" src="https://user-images.githubusercontent.com/89053178/215656158-7632cd18-9862-4d49-9e41-715dd5b1b3a1.png"/> Un poco más Sobre mí...
 
 <p>Soy una persona que esta comenzando su carrera como <strong> desarrollador Full Stack Developer. </strong>
 Creo que la capacidad de <strong> superación </strong> es una de las cualidades más importantes para cualquier trabajador. Es por eso me considero capaz de <strong> mejorar y aprender </strong> a diario, de cada una de las oportunidades laborales que se me presenten.
 <strong> Busco un empleo que confié en mi capacidad y me dé las posibilidades de crecer profesionalmente. </strong> </p>
 
-### 📚 Actualmente estoy aprendiendo...
+### <img width="40px" src="https://user-images.githubusercontent.com/89053178/215656414-e0163eb2-2822-43a7-aea0-18d3752d4f89.png"/> Actualmente estoy aprendiendo...
 
 <a href="https://www.typescriptlang.org/" title="TypeScript">
   <img src="https://user-images.githubusercontent.com/89053178/215649759-ed37e025-7349-4d93-ae5d-0edb11791e17.png" width="60"/>
@@ -31,7 +31,7 @@ Creo que la capacidad de <strong> superación </strong> es una de las cualidades
 </a>
 
 
-### 🚀 Tecnologías con las que me siento cómodo...
+### <img width="40px" src="https://user-images.githubusercontent.com/89053178/215656796-ee93fb75-c2ef-4801-8078-6a17fb839939.png"/> Tecnologías con las que me siento cómodo...
 
 <a href="https://www.javascript.com/" title="JavaScript">
   <img src="https://user-images.githubusercontent.com/89053178/215643440-c216e46b-2649-4fdd-8771-2c959f8638f7.png" width="60"/>
@@ -65,12 +65,12 @@ Creo que la capacidad de <strong> superación </strong> es una de las cualidades
   <img src="https://user-images.githubusercontent.com/89053178/215648005-248ca08e-47a3-4b56-8084-0c076062217e.png" width="60"/>
 </a>
 
-<h4 align="center">Idiomas principales :tongue:</h4>
+<h4 align="center">Lenguajes Principales <img width="28px" src="https://user-images.githubusercontent.com/89053178/215658487-837b1c87-4437-4242-8bcf-6799912baaf4.png"/> </h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-franco&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-franco&langs_count=10&theme=tokyonight&layout=compact" alt="yan-franco :: Top Langs" /></p>
 
-<h4 align="center">Estadísticas de perfil :musical_keyboard:</h4>
+<h4 align="center">Estadísticas de Perfil <img width="28px" src="https://user-images.githubusercontent.com/89053178/215658630-f7dabb2e-ec23-42e6-adb2-5aee693faed9.png"/></h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yan-franco&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yan-franco&show_icons=true&theme=synthwave" alt="yan-franco :: Profile Stats" /></p>
 
 
