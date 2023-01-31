@@ -1,3 +1,4 @@
+
 <p align="center" width="300">
   <img align="center" width="200" src="https://user-images.githubusercontent.com/89053178/215668595-ab1b40aa-5302-4286-980a-84092ff9dbe1.gif"/>
   <h3 align="center">Hola <img width="28px" src="https://user-images.githubusercontent.com/89053178/215655745-434ee625-f6bb-47b2-87f5-3e8a0e4609b6.png"/> soy Yan</h3>
@@ -14,11 +15,20 @@
 </p>
 
 
+
 ### <img width="40px" src="https://user-images.githubusercontent.com/89053178/215656158-7632cd18-9862-4d49-9e41-715dd5b1b3a1.png"/> Un poco más Sobre mí...
 
 <p>Soy una persona que esta comenzando su carrera como <strong> desarrollador Full Stack Developer. </strong>
 Creo que la capacidad de <strong> superación </strong> es una de las cualidades más importantes para cualquier trabajador. Es por eso me considero capaz de <strong> mejorar y aprender </strong> a diario, de cada una de las oportunidades laborales que se me presenten.
 <strong> Busco un empleo que confié en mi capacidad y me dé las posibilidades de crecer profesionalmente. </strong> </p>
+
+### <img width="40px" src="https://user-images.githubusercontent.com/89053178/215807829-493b59a7-fd4d-4751-ba46-d0fe56d57230.png"/> Mis proyectos...
+
+<strong>Colaboradores:</strong> <a href="https://github.com/LaloFreak">Lalo Freak</a> || <a href="https://github.com/ValeriaArellano0011">Valeria Arellano</a> || <a href="https://github.com/IgnacioMelgarejo">Ignacio Melgarejo</a> || <br/> <a href="https://github.com/Agustin197">Agustín Ceballos</a> || <a href="https://github.com/EstebanDelgado7">Michael Delgado</a> || <strong> Yo </strong> <img width="28px" src="https://user-images.githubusercontent.com/89053178/215813403-94e1338d-a831-4ac3-b821-294bf732c0bd.png"/>
+
+<a href="https://tv.laruinarecords.cl/browser" title="La Ruina Tv">
+  <img src="https://user-images.githubusercontent.com/89053178/215808883-94a1b331-4190-4cd9-81e2-374a356e2630.png" width="500"/>
+</a>
 
 ### <img width="40px" src="https://user-images.githubusercontent.com/89053178/215656414-e0163eb2-2822-43a7-aea0-18d3752d4f89.png"/> Actualmente estoy aprendiendo...
 
