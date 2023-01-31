@@ -65,11 +65,11 @@ Creo que la capacidad de <strong> superación </strong> es una de las cualidades
   <img src="https://user-images.githubusercontent.com/89053178/215648005-248ca08e-47a3-4b56-8084-0c076062217e.png" width="60"/>
 </a>
 
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="center">Idiomas principales :tongue:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-franco&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<h4 align="center">Estadísticas de perfil :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yan-franco&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
