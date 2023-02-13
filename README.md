@@ -11,8 +11,11 @@
   <a href="https://www.instagram.com/mieles_yan/" target="blank" style="margin-right: 4px">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mieles_yan" height="28px" width="28px"/>
   </a>
+  
+  <a href="https://portafolio-chi-ten.vercel.app/" target="blank" style="margin-right: 4px">
+    <img align="center" src="https://user-images.githubusercontent.com/89053178/218570590-b0d69412-59d4-4f61-baff-0c2934a7d4a1.png" alt="yan franco" height="28px" width="28px"/>
+  </a>
 </p>
-
 
 
 ### <img width="40px" src="https://user-images.githubusercontent.com/89053178/215656158-7632cd18-9862-4d49-9e41-715dd5b1b3a1.png"/> Un poco más Sobre mí...
