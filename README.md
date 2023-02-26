@@ -2,14 +2,13 @@
   <img align="center" width="200" src="https://user-images.githubusercontent.com/89053178/215668595-ab1b40aa-5302-4286-980a-84092ff9dbe1.gif"/>
   <h3 align="center">Hola <img width="28px" src="https://user-images.githubusercontent.com/89053178/215655745-434ee625-f6bb-47b2-87f5-3e8a0e4609b6.png"/> soy Yan</h3>
 
-
 <p align="center"> Soy un futuro <strong> Full Stack Developer </strong> <br /> Estas son mis redes Sociales <img width="28px" src="https://user-images.githubusercontent.com/89053178/215655984-0f16248d-e085-4da7-8413-cb891b913870.png"/> : </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/yan-franco-mieles-genez-793a261b5/" target="blank" style="margin-right: 4px">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Yan-Franco" height="28px" width="28px"/>
   </a>
-  <a href="https://www.instagram.com/mieles_yan/" target="blank" style="margin-right: 4px">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mieles_yan" height="28px" width="28px"/>
+  <a href="https://github.com/yan-franco/yan-franco/files/10835009/hoja.de.vida.Franco.pdf" target="blank" style="margin-right: 4px">
+    <img align="center" src="https://user-images.githubusercontent.com/89053178/221443983-59e24c8a-158b-4011-bfe8-6befc9eca417.png" alt="CV" height="28px" width="28px"/>
   </a>
   
   <a href="https://portafolio-chi-ten.vercel.app/" target="blank" style="margin-right: 4px">
