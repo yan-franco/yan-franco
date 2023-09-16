@@ -27,7 +27,7 @@ Creo que la capacidad de <strong> superación </strong> es una de las cualidades
 
 <strong>Colaboradores:</strong> <a href="https://github.com/LaloFreak">Lalo Freak</a> || <a href="https://github.com/ValeriaArellano0011">Valeria Arellano</a> || <a href="https://github.com/IgnacioMelgarejo">Ignacio Melgarejo</a> || <br/> <a href="https://github.com/Agustin197">Agustín Ceballos</a> || <a href="https://github.com/EstebanDelgado7">Michael Delgado</a> || <strong> Yo </strong> <img width="28px" src="https://user-images.githubusercontent.com/89053178/215813403-94e1338d-a831-4ac3-b821-294bf732c0bd.png"/>
 
-<a href="https://tv.laruinarecords.cl/browser" title="La Ruina Tv">
+<a href="https://tv.laruinarecords.cl/#/browser" title="La Ruina Tv">
   <img src="https://user-images.githubusercontent.com/89053178/215808883-94a1b331-4190-4cd9-81e2-374a356e2630.png" width="500"/>
 </a>
 
