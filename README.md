@@ -83,6 +83,3 @@ Creo que la capacidad de <strong> superación </strong> es una de las cualidades
 </div>
 
 
-<img src="https://raw.githubusercontent.com/yan-franco/yan-franco/output/snake.svg" alt="Snake animation" />
-
-###
