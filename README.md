@@ -11,7 +11,7 @@
     <div align="center">
       <a href="https://www.linkedin.com/in/yan-franco-mieles-genez/" title="linkedin"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="33" alt="linkedin logo"  /> </a>
       <a href="https://github.com/yan-franco/yan-franco/files/10835009/hoja.de.vida.Franco.pdf" title="linkedin"> <img src="https://github.com/yan-franco/yan-franco/assets/89053178/7d884938-3a7f-44d2-96cf-e1ec7010515e" width="45" height="45" alt="linkedin logo"  /> </a>
-      <a href="https://portafolio-chi-ten.vercel.app/" title="linkedin"> <img src="https://github.com/yan-franco/yan-franco/assets/89053178/a356281d-cba3-4ded-bb72-327e0ec5e932" width="45" height="45" alt="linkedin logo"  /> </a>
+      <a href="https://yan-franco.vercel.app/" title="linkedin"> <img src="https://github.com/yan-franco/yan-franco/assets/89053178/a356281d-cba3-4ded-bb72-327e0ec5e932" width="45" height="45" alt="linkedin logo"  /> </a>
     </div>
   
 </p>
